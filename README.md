@@ -1,6 +1,6 @@
 # LinkedList-VS-ArrayList-java
 
-TEST bigO 
+TEST bigO \n
 El prefijo aleatorio es: m 
 El numero de elementos es: 10000000 
 295002417 bytes written to .\listacorreos.txt 
